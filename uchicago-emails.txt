@@ -1,0 +1,5 @@
+bob@uchicago.edu 
+philb@uchicago.edu 
+sally@uchicago.edu 
+rebeccaw@uchicago.edu 
+joan@uchicago.edu
