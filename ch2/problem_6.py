@@ -1,5 +1,4 @@
 
-
 def power_status(grid, row_bounds, col_bounds):
     '''
     Determines the status of the homes within a sector. A sector is defined by a row  and column
