@@ -1,2 +1,2 @@
-def calculate_metrics(filename):
+def full_paths(path_components, base_path='/'):
     pass
