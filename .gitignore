@@ -1,1 +1,5 @@
 .idea
+.tool-versions
+.envrc
+.ipynb_checkpoints
+__pycache__/
