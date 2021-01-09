@@ -1,5 +1,8 @@
 .idea
 .tool-versions
 .envrc
-.ipynb_checkpoints
+*.ipynb_checkpoints
 __pycache__/
+
+solutions
+
