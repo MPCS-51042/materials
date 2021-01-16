@@ -1,2 +1,2 @@
-def lru_cache(maxsize=0):
+def maketuple():
     pass

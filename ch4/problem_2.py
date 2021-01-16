@@ -1,2 +1,2 @@
-def accepts():
+def unique():
     pass

@@ -1,2 +1,2 @@
-def maketuple():
+def vectorize():
     pass
