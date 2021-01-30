@@ -36,7 +36,6 @@ class Assertion:
         else:
             raise FailedAssertion(f"Expected {self.expression} to have size {size} but it instead had size {len(self.expression)}")
 
-
     def has_items(self, *args):
         '''
             This method returns True if a collection has the right items
@@ -48,7 +47,6 @@ class Assertion:
                 missing_items.append(item)
         if missing_items:
             raise FailedAssertion(f"Expected {self.expression} to have items {missing_items}")
-
 
 def assert_that(expression):
     return Assertion(expression)
