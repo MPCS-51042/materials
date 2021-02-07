@@ -13,3 +13,13 @@ def mock(call, to_return):
         return wrapper
 
     return decorator
+
+def parametrize(inputs):
+    def decorator(function):
+        for example in inputs:
+            print(f"Running {function.__name__} with args {example}")
+            try:
+                function(*example)
+            except Exception as e:
+                print("  " + str(e))
+    return decorator
