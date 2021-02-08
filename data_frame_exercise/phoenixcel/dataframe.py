@@ -30,6 +30,18 @@ class GroupBy(dict):
     def count(self, on=None):
         return self.aggregate(on=on, using_func=len)
 
+    def min(self, on=None):
+        return self.aggregate(on=on, using_func=min)
+
+    def max(self, on=None):
+        return self.aggregate(on=on, using_func=max)
+
+    def spread(self, on=None):
+        def func(listo):
+            return max(listo) - min(listo)
+
+        return self.aggregate(on=on, using_func=func)
+
     def aggregate(self, on=None, using_func=None):
         aggregator = {}
         if on == None:
