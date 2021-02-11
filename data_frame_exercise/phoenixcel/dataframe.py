@@ -54,6 +54,49 @@ class GroupBy(dict):
                 aggregator[key] = using_func(addends)
         return aggregator
 
+    def describe_with(self, *args):
+        descriptions = {}
+        for aggregation in args:
+            if aggregation['agg'] == 'aggregate':
+                result = self.aggregate(on=aggregation['column'], using_func=aggregation['using_func'])
+                function_name = aggregation['using_func'].__name__
+            else:
+                aggregation_function = getattr(self, aggregation['agg'])
+                result = aggregation_function(on=aggregation['column'])
+                function_name = aggregation['agg']
+
+            for result_key in result.keys():
+                if not descriptions.get(result_key):
+                    descriptions[result_key] = {}
+                aggregation_label = f"{aggregation['column']} {function_name}"
+                descriptions[result_key][aggregation_label] = result[result_key]
+        return GroupBy(descriptions)
+
+    def print_cute(self):
+        '''
+        Prints out a GroupBy or a GroupBy Description in a nice format.
+
+        Input:
+          None - this method operates on the existing GroupBy object.
+
+        Output:
+          None - no return value
+
+        Modifies:
+          Prints to standard out with a list of the groups. For each group,
+          prints an indented list of the items in it (for a GroupBy),
+          or an indented list of summary statistics (for a Groupby Description).
+        '''
+        for key, value in self.items():
+            print(key)
+
+            if isinstance(value, dict):
+                for key, component in value.items():
+                    print(f"   {key} : {component}")
+            else:
+                for component in value:
+                    print(f"  {component}")
+
 
 class DataFrame():
     def __init__(self):
@@ -163,9 +206,16 @@ class DataFrame():
         setattr(self, key.lower().replace(" ", "_"), self._dictionary[key])
 
     def where(self, condition):
-        df = self
         rows = [row for row in self._list if condition(row)]
         return DataFrame.from_rows(rows)
+
+    def assign(self, **kwargs):
+        for key, value in kwargs.items():
+            new_column = Series()
+            for row in self._list:
+                new_column.append(value(row))
+            self.__setitem__(key, new_column)
+        return self
 
     def group_by(self, column):
         '''
