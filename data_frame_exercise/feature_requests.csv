@@ -1,0 +1,36 @@
+Timestamp,Name,How do you use phoenixcel tools? ,What is your feature request?
+2/10/2021 4:15:30,Horatio Crisp,Gold prospecting,"My cousin, Amelia Crisp, is a geostatistician, and will give me CSVs with geocoordinates, estimated values of gold deposits at those coordinates, *and* confidence intervals of how reliable those estimates are. The best sites to prospect are the ones with high estimated gold concentrations and small confidence intervals.
+
+As a gold prospector, I'd like to be able to order my CSV records by *descending* gold concentration estimation, but by *ascending* confidence interval. So the first record after carrying out this procedure should be the highest estimated gold deposit with the smallest confidence interval."
+2/10/2021 4:22:22,Linda Twist,Pranking my friends,"I'd like it so that every now and again, Phoenixcel would change its string columns so they read ""HELP I AM TRAPPED IN A CSV FACTORY"". "
+2/10/2021 5:43:50,DoomGuy,To help me determine the priority of which I rip and tear,I need it to help me prioritize which demons to go after first and to also prioritize which ones to use my chainsaw on. By knowing which ones I can stagger next it will help keep my strength up.
+2/10/2021 6:36:53,Eric Lafontaine ,Organise budgets for customers ,"I would like to group the type of expenses.  Groceries, medical, house loans, transportation, etc.
+
+This could enable me to give customers an idea of where they spend their money and why."
+2/10/2021 9:01:52,Brock,"I have a collection of rocks and small animals that I keep various measurements on (height, weight, strength, etc) for competitive purposes. ","So, early on, when my battle animals were growing up, I wrote the measurements in kind of a silly way -- The battle animals name, then the name of the stat under a ""stat"" column, and then the value of the stat under a ""value"" column. So each battle animal has multiple rows, each of which is one stat. 
+
+My best friend Ash Ketchup told me it would be a lot better to have one row per battle animal and a column for each stat (and that's great!) but I have a lot of data in the old format. Could you write something that lets me give phoenixcel tools a name column, a stat column, and a value column and have it transform it into one row per name, with columns named after the stats? "
+2/10/2021 11:52:52,Charles Xavier,human resources,"I’m hiring new instructors for my school for gifted youngsters, but the candidates are a bit of a mixed bag.  I’ve categorized them based on their morality (good, neutral, or evil) and legality (lawful, neutral, or chaotic).  For example, Mr Logan is good/chaotic, Ms Frost is evil/lawful, Mr. Eisenhardt is evil/neutral, Mr. Apocalypse is evil/chaotic, and there are many others.  I want to hire anyone who fits these criteria:
+(1) Is good but not chaotic
+(2) Is neutral but not chaotic
+(3) Is evil and lawful
+So out of the example candidates, only Ms. Frost would make the cut.  
+
+Could you give me a way to organize a table of candidates?  Would also be good if it could handle new values for the attributes morality and legality; as well as completley new attributes.  
+"
+2/10/2021 12:08:21,Orpheus,"I have written a *lot* of songs. I just cannot stop writing. Ever since I lost the love of my life Eurydice to Hadestown, I've been in a monumental sorrow, and song writing is the only thing I seem to be able to do. I am obsessed. I use phoenixcel tools to track and analyze the songs I have written… there are *so* many.","I have all these songs in phoenixcel, kept in alphabetical order. I also keep track of when I have played them to the townspeople. But after 4000 songs, I cannot remember much about many of the ones that exist at this point. I don't know which ones came first even! I'd love to be able to sort my songs in other ways, like by which one I wrote first, which one I sang most recently, and so on.
+
+Lalalalalalala
+
+Orpheus"
+2/10/2021 12:09:02,Scheherazade,"As the greatest character in all of literature, I use phoenixcel to keep track of which of my stories gets allocated to which night I tell it.",I would love to be able to sort my rows of data.
+2/10/2021 12:15:19,La Princesse de Clèves,I use phoenixcel to keep track of which of the honorific titles in King Henry II's court corresponds to which noble (a many-to-one relation).  Each person is assigned a canonical name as their primary key.,"It's hard to see the patterns in what my queries return; if I could sort the rows into primary key equivalence classes, it would be easier to see what was happening."
+2/10/2021 15:49:00,KRAMPUS,Planning my work,"I am KRAMPUS, a horned, cloven-hooved counterpart to Santa Claus. Where he rewards good children, I punish the naughty ones. For the regular naughty children, I leave them meagre lumps of coal in their Christmas stockings. For the more naughty ones, I will beat them with a switch of sticks. For the especially naughty children, those most foul, nasty little creatures, I stuff them in a sack and steal them away to Hell.
+
+Recent budgetary cutbacks have meant having to work with smaller and smaller sacks, so the number of children I can stuff away in the sack has been reduced to a paltry figure.
+
+Thanks to a data-sharing agreement brokered in the 1990s, I have a full list of Santa Claus's Naughty and Nice list. (They say he checks it twice, but I know for a fact he subcontracts it out to Palantir these days.) Since it has a record for every child in the world, it takes forever to load in Excel, so I've taken to using Phoenixcel for combing through the data.
+
+I wish to request a feature that will allow me to select the `n` most naughty children for each territory (naughtiness/niceness being an interpolated float value between -1 and 1, and territory being a string column).
+
+Also I would like to pay special thanks for the implementation of `.min()` in Phoenixcel. This has allowed me to identify the most naughty child in the world. It's more of a symbolic gesture than having any real effect on my workflow, but it really does brighten my day to have this personal face to apply to what would otherwise be rather abstract work."

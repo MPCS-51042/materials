@@ -1,0 +1,642 @@
+Date,Time of Day,Assessor,Location,Reading (Parts per Million)
+1/1/2020,morning,Goodwin Schmitz,Chamber of Secrets,440.4114433
+1/1/2020,morning,Goodwin Schmitz,Forbidden Forest A,523.5020614
+1/1/2020,morning,Anubha Momen,Forbidden Forest B,460.0337443
+1/1/2020,morning,Li Qin Shen,Hogwarts School Grounds A,444.277126
+1/1/2020,evening,Phillipe Juncadella,Nocturn Alley,520.7892893
+1/1/2020,morning,Rachel Cohen,The Leaky Cauldron,459.9306682
+1/2/2020,evening,Radhika Patel,Forbidden Forest A,497.7793695
+1/2/2020,evening,Anubha Momen,Forbidden Forest B,491.1830794
+1/3/2020,morning,Radhika Patel,Forbidden Forest A,483.6395036
+1/3/2020,morning,Anubha Momen,Forbidden Forest B,420.2891918
+1/3/20,evening,Li Qin Shen,Hogwarts School Grounds A,440.9151845
+1/3/20,evening,Rachel Cohen,The Leaky Cauldron,503.4830731
+1/4/2020,evening,Radhika Patel,Forbidden Forest A,476.9709292
+1/4/2020,evening,Anubha Momen,Forbidden Forest B,345.47057
+1/5/2020,morning,Radhika Patel,Forbidden Forest A,510.7269682
+1/5/2020,morning,Anubha Momen,Forbidden Forest B,386.0693591
+1/5/2020,morning,Li Qin Shen,Hogwarts School Grounds A,530.9010558
+1/5/2020,morning,Rachel Cohen,The Leaky Cauldron,456.5665867
+1/6/2020,evening,Radhika Patel,Forbidden Forest A,465.0433919
+1/6/2020,evening,Anubha Momen,Forbidden Forest B,462.3852344
+1/7/2020,morning,Radhika Patel,Forbidden Forest A,508.4376015
+1/7/2020,morning,Anubha Momen,Forbidden Forest B,543.3143368
+1/7/20,evening,Li Qin Shen,Hogwarts School Grounds A,471.3241519
+1/7/2020,morning,Phillipe Juncadella,Nocturn Alley,461.0348445
+1/7/20,evening,Rachel Cohen,The Leaky Cauldron,561.3520235
+1/8/2020,evening,Radhika Patel,Forbidden Forest A,531.151661
+1/8/2020,evening,Anubha Momen,Forbidden Forest B,577.5745937
+1/9/2020,morning,Radhika Patel,Forbidden Forest A,529.4850087
+1/9/2020,morning,Anubha Momen,Forbidden Forest B,344.5116318
+1/9/2020,morning,Li Qin Shen,Hogwarts School Grounds A,455.3343846
+1/9/2020,morning,Rachel Cohen,The Leaky Cauldron,446.5965472
+1/10/2020,evening,Radhika Patel,Forbidden Forest A,516.2879268
+1/10/2020,morning,Anubha Momen,Forbidden Forest B,504.5083587
+1/11/2020,morning,Radhika Patel,Forbidden Forest A,504.2302938
+1/11/2020,evening,Anubha Momen,Forbidden Forest B,353.568188
+1/11/20,evening,Li Qin Shen,Hogwarts School Grounds A,444.4654605
+1/11/20,evening,Rachel Cohen,The Leaky Cauldron,506.3690346
+1/12/2020,evening,Radhika Patel,Forbidden Forest A,504.6857995
+1/12/2020,morning,Anubha Momen,Forbidden Forest B,500.42189
+1/13/2020,morning,Radhika Patel,Forbidden Forest A,491.7028973
+1/13/2020,evening,Anubha Momen,Forbidden Forest B,441.2347442
+1/13/2020,morning,Li Qin Shen,Hogwarts School Grounds A,448.3073974
+1/13/2020,evening,Phillipe Juncadella,Nocturn Alley,523.2533841
+1/13/2020,morning,Rachel Cohen,The Leaky Cauldron,579.4454262
+1/14/2020,evening,Radhika Patel,Forbidden Forest A,525.1011674
+1/14/2020,morning,Anubha Momen,Forbidden Forest B,456.7959015
+1/15/2020,morning,Radhika Patel,Forbidden Forest A,524.7036124
+1/15/2020,evening,Anubha Momen,Forbidden Forest B,376.7606722
+1/15/20,evening,Li Qin Shen,Hogwarts School Grounds A,476.705223
+1/15/20,evening,Rachel Cohen,The Leaky Cauldron,499.5646212
+1/16/2020,evening,Art Bagleur,Forbidden Forest A,507.5100192
+1/16/2020,morning,Anubha Momen,Forbidden Forest B,406.9962006
+1/17/2020,morning,Art Bagleur,Forbidden Forest A,491.2513634
+1/17/2020,evening,Anubha Momen,Forbidden Forest B,423.8254967
+1/17/2020,morning,Li Qin Shen,Hogwarts School Grounds A,468.3958375
+1/17/2020,morning,Rachel Cohen,The Leaky Cauldron,470.5406593
+1/18/2020,evening,Art Bagleur,Forbidden Forest A,499.9020838
+1/18/2020,morning,Anubha Momen,Forbidden Forest B,446.8494288
+1/19/2020,morning,Art Bagleur,Forbidden Forest A,510.3294631
+1/19/2020,evening,Anubha Momen,Forbidden Forest B,435.4099166
+1/19/20,evening,Li Qin Shen,Hogwarts School Grounds A,457.5925654
+1/19/2020,morning,Phillipe Juncadella,Nocturn Alley,497.202334
+1/19/20,evening,Rachel Cohen,The Leaky Cauldron,430.3635864
+1/20/2020,morning,Art Bagleur,Forbidden Forest A,521.2854018
+1/20/2020,morning,Anubha Momen,Forbidden Forest B,380.4268397
+1/21/2020,evening,Art Bagleur,Forbidden Forest A,505.6690879
+1/21/2020,evening,Anubha Momen,Forbidden Forest B,526.3250076
+1/21/2020,morning,Li Qin Shen,Hogwarts School Grounds A,365.9321052
+1/21/2020,morning,Rachel Cohen,The Leaky Cauldron,506.6310268
+1/22/2020,morning,Art Bagleur,Forbidden Forest A,489.3342528
+1/22/2020,morning,Anubha Momen,Forbidden Forest B,529.1012983
+1/23/2020,evening,Art Bagleur,Forbidden Forest A,481.4053856
+1/23/2020,evening,Phillipe Juncadella,Forbidden Forest B,461.0736008
+1/23/20,evening,Li Qin Shen,Hogwarts School Grounds A,480.8003196
+1/23/20,evening,Rachel Cohen,The Leaky Cauldron,534.6016567
+1/24/2020,morning,Art Bagleur,Forbidden Forest A,453.9295533
+1/24/2020,morning,Phillipe Juncadella,Forbidden Forest B,472.1883465
+1/25/2020,evening,Art Bagleur,Forbidden Forest A,539.2604575
+1/25/2020,evening,Phillipe Juncadella,Forbidden Forest B,405.1131634
+1/25/2020,morning,Li Qin Shen,Hogwarts School Grounds A,579.3669037
+1/25/2020,evening,Rachel Cohen,Nocturn Alley,509.876132
+1/25/2020,morning,Cici Onyekwwere,The Leaky Cauldron,485.7020448
+1/26/2020,morning,Art Bagleur,Forbidden Forest A,508.6536029
+1/26/2020,morning,Phillipe Juncadella,Forbidden Forest B,383.3022466
+1/27/2020,evening,Art Bagleur,Forbidden Forest A,511.6365626
+1/27/2020,evening,Phillipe Juncadella,Forbidden Forest B,466.4011908
+1/27/20,evening,Li Qin Shen,Hogwarts School Grounds A,398.1701384
+1/27/20,evening,Cici Onyekwwere,The Leaky Cauldron,481.9943023
+1/28/2020,morning,Art Bagleur,Forbidden Forest A,526.015931
+1/28/2020,morning,Phillipe Juncadella,Forbidden Forest B,475.322172
+1/29/2020,evening,Art Bagleur,Forbidden Forest A,466.6954714
+1/29/2020,morning,Phillipe Juncadella,Forbidden Forest B,339.1682186
+1/29/2020,morning,Li Qin Shen,Hogwarts School Grounds A,465.5984374
+1/29/2020,morning,Cici Onyekwwere,The Leaky Cauldron,527.9882954
+1/30/2020,morning,Art Bagleur,Forbidden Forest A,510.457826
+1/30/2020,evening,Phillipe Juncadella,Forbidden Forest B,344.8371023
+1/31/2020,evening,Art Bagleur,Forbidden Forest A,481.4229573
+1/31/2020,morning,Phillipe Juncadella,Forbidden Forest B,356.2447019
+1/31/20,evening,Li Qin Shen,Hogwarts School Grounds A,501.0446237
+1/31/2020,morning,Rachel Cohen,Nocturn Alley,522.7355498
+1/31/20,evening,Cici Onyekwwere,The Leaky Cauldron,481.4744105
+2/1/20,morning,Goodwin Schmitz,Chamber of Secrets,340.7676676
+2/1/2020,morning,Durman Dinks,Forbidden Forest A,492.4492319
+2/1/2020,evening,Phillipe Juncadella,Forbidden Forest B,382.4894469
+2/2/2020,evening,Durman Dinks,Forbidden Forest A,451.4211378
+2/2/2020,morning,Phillipe Juncadella,Forbidden Forest B,398.7952646
+2/2/2020,morning,Li Qin Shen,Hogwarts School Grounds A,477.6432577
+2/2/2020,morning,Cici Onyekwwere,The Leaky Cauldron,483.0608759
+2/3/2020,morning,Durman Dinks,Forbidden Forest A,500.5962637
+2/3/2020,evening,Phillipe Juncadella,Forbidden Forest B,341.4785854
+2/4/2020,evening,Durman Dinks,Forbidden Forest A,506.3253671
+2/4/2020,morning,Phillipe Juncadella,Forbidden Forest B,395.2565125
+2/4/20,evening,Li Qin Shen,Hogwarts School Grounds A,568.9061987
+2/4/20,evening,Cici Onyekwwere,The Leaky Cauldron,450.1652705
+2/5/2020,morning,Durman Dinks,Forbidden Forest A,507.9842478
+2/5/2020,evening,Phillipe Juncadella,Forbidden Forest B,421.9607212
+2/6/2020,evening,Durman Dinks,Forbidden Forest A,498.2192134
+2/6/2020,morning,Phillipe Juncadella,Forbidden Forest B,457.4457003
+2/6/2020,morning,Li Qin Shen,Hogwarts School Grounds A,496.5830817
+2/6/2020,evening,Rachel Cohen,Nocturn Alley,527.5152703
+2/6/2020,morning,Cici Onyekwwere,The Leaky Cauldron,557.2974494
+2/7/2020,morning,Durman Dinks,Forbidden Forest A,470.4813591
+2/7/2020,evening,Phillipe Juncadella,Forbidden Forest B,441.2724311
+2/8/2020,morning,Durman Dinks,Forbidden Forest A,498.3428275
+2/8/2020,morning,Phillipe Juncadella,Forbidden Forest B,548.9362957
+2/8/20,evening,Li Qin Shen,Hogwarts School Grounds A,475.7083463
+2/8/20,evening,Cici Onyekwwere,The Leaky Cauldron,427.4361317
+2/9/2020,evening,Durman Dinks,Forbidden Forest A,546.6692595
+2/9/2020,evening,Phillipe Juncadella,Forbidden Forest B,454.8866761
+2/10/2020,morning,Durman Dinks,Forbidden Forest A,479.1963587
+2/10/2020,morning,Phillipe Juncadella,Forbidden Forest B,344.7294328
+2/10/2020,morning,Li Qin Shen,Hogwarts School Grounds A,374.5202874
+2/10/2020,morning,Cici Onyekwwere,The Leaky Cauldron,454.9655627
+2/11/2020,evening,Durman Dinks,Forbidden Forest A,475.7056174
+2/11/2020,evening,Phillipe Juncadella,Forbidden Forest B,430.5821763
+2/12/2020,morning,Durman Dinks,Forbidden Forest A,489.0644717
+2/12/2020,morning,Phillipe Juncadella,Forbidden Forest B,269.7945852
+2/12/20,evening,Li Qin Shen,Hogwarts School Grounds A,409.0258738
+2/12/2020,morning,Rachel Cohen,Nocturn Alley,511.6048127
+2/12/20,evening,Cici Onyekwwere,The Leaky Cauldron,507.5957639
+2/13/2020,evening,Durman Dinks,Forbidden Forest A,530.4674056
+2/13/2020,evening,Phillipe Juncadella,Forbidden Forest B,474.4617709
+2/14/2020,morning,Durman Dinks,Forbidden Forest A,472.2063996
+2/14/2020,morning,Phillipe Juncadella,Forbidden Forest B,339.2365656
+2/14/2020,morning,Li Qin Shen,Hogwarts School Grounds A,429.694295
+2/14/2020,morning,Cici Onyekwwere,The Leaky Cauldron,474.061382
+2/15/2020,evening,Durman Dinks,Forbidden Forest A,484.3458893
+2/15/2020,evening,Phillipe Juncadella,Forbidden Forest B,440.6522158
+2/16/2020,morning,Durman Dinks,Forbidden Forest A,495.6085866
+2/16/2020,morning,Phillipe Juncadella,Forbidden Forest B,453.6393085
+2/16/20,evening,Li Qin Shen,Hogwarts School Grounds A,504.4364746
+2/16/20,evening,Cici Onyekwwere,The Leaky Cauldron,477.0328404
+2/17/2020,evening,Durman Dinks,Forbidden Forest A,461.541112
+2/17/2020,morning,Phillipe Juncadella,Forbidden Forest B,445.9737461
+2/18/2020,morning,Durman Dinks,Forbidden Forest A,438.3356887
+2/18/2020,evening,Phillipe Juncadella,Forbidden Forest B,451.6690404
+2/18/2020,morning,Li Qin Shen,Hogwarts School Grounds A,430.6342365
+2/18/2020,evening,Rachel Cohen,Nocturn Alley,500.6611371
+2/18/2020,morning,Cici Onyekwwere,The Leaky Cauldron,491.4142408
+2/19/2020,evening,Durman Dinks,Forbidden Forest A,517.1491035
+2/19/2020,morning,Phillipe Juncadella,Forbidden Forest B,430.669926
+2/20/2020,morning,Durman Dinks,Forbidden Forest A,454.0756388
+2/20/2020,evening,Phillipe Juncadella,Forbidden Forest B,377.8345279
+2/20/20,evening,Li Qin Shen,Hogwarts School Grounds A,513.2860657
+2/20/20,evening,Cici Onyekwwere,The Leaky Cauldron,410.8713858
+2/21/2020,evening,Durman Dinks,Forbidden Forest A,498.7826146
+2/21/2020,morning,Phillipe Juncadella,Forbidden Forest B,481.3046078
+2/22/2020,morning,Durman Dinks,Forbidden Forest A,515.4587399
+2/22/2020,evening,Phillipe Juncadella,Forbidden Forest B,397.8069166
+2/22/2020,morning,Li Qin Shen,Hogwarts School Grounds A,493.9219882
+2/22/2020,morning,Cici Onyekwwere,The Leaky Cauldron,439.5297691
+2/23/2020,evening,Durman Dinks,Forbidden Forest A,458.5434236
+2/23/2020,morning,Phillipe Juncadella,Forbidden Forest B,328.0433949
+2/24/2020,morning,Durman Dinks,Forbidden Forest A,516.7916004
+2/24/2020,evening,Phillipe Juncadella,Forbidden Forest B,328.497502
+2/24/20,evening,Li Qin Shen,Hogwarts School Grounds A,472.3881747
+2/24/2020,morning,Rachel Cohen,Nocturn Alley,497.5249563
+2/24/20,evening,Cici Onyekwwere,The Leaky Cauldron,508.4350107
+2/25/2020,evening,Durman Dinks,Forbidden Forest A,459.7023649
+2/25/2020,morning,Phillipe Juncadella,Forbidden Forest B,485.467903
+2/26/2020,morning,Durman Dinks,Forbidden Forest A,494.5722586
+2/26/2020,evening,Phillipe Juncadella,Forbidden Forest B,377.9510979
+2/26/2020,morning,Li Qin Shen,Hogwarts School Grounds A,436.743497
+2/26/2020,morning,Cici Onyekwwere,The Leaky Cauldron,468.9257969
+2/27/2020,morning,Durman Dinks,Forbidden Forest A,495.5092141
+2/27/2020,morning,Phillipe Juncadella,Forbidden Forest B,544.9631424
+2/28/2020,evening,Durman Dinks,Forbidden Forest A,482.5862215
+2/28/2020,evening,Phillipe Juncadella,Forbidden Forest B,315.7945652
+2/28/20,evening,Li Qin Shen,Hogwarts School Grounds A,540.1143986
+2/28/20,evening,Cici Onyekwwere,The Leaky Cauldron,502.6786533
+2/29/2020,morning,Durman Dinks,Forbidden Forest A,515.5240468
+2/29/2020,morning,Phillipe Juncadella,Forbidden Forest B,358.6613094
+3/1/2020,morning,Goodwin Schmitz,Chamber of Secrets,454.6732912
+3/1/2020,evening,Durman Dinks,Forbidden Forest A,517.1705037
+3/1/2020,evening,Phillipe Juncadella,Forbidden Forest B,447.0038522
+3/1/2020,morning,Onsi Bahksh,Hogwarts School Grounds A,431.0841175
+3/1/2020,evening,Rachel Cohen,Nocturn Alley,504.617209
+3/1/2020,morning,Cici Onyekwwere,The Leaky Cauldron,498.411949
+3/2/2020,morning,Durman Dinks,Forbidden Forest A,479.8324562
+3/2/2020,morning,Phillipe Juncadella,Forbidden Forest B,435.6333882
+3/3/2020,evening,Durman Dinks,Forbidden Forest A,540.0110208
+3/3/2020,evening,Phillipe Juncadella,Forbidden Forest B,404.9588066
+3/3/20,evening,Onsi Bahksh,Hogwarts School Grounds A,431.4703283
+3/3/20,evening,Cici Onyekwwere,The Leaky Cauldron,471.8242944
+3/4/2020,morning,Durman Dinks,Forbidden Forest A,494.7772942
+3/4/2020,morning,Phillipe Juncadella,Forbidden Forest B,447.2533838
+3/5/2020,evening,Durman Dinks,Forbidden Forest A,522.8113062
+3/5/2020,evening,Phillipe Juncadella,Forbidden Forest B,410.6900195
+3/5/2020,morning,Onsi Bahksh,Hogwarts School Grounds A,503.51824
+3/5/2020,morning,Cici Onyekwwere,The Leaky Cauldron,430.0722677
+3/6/2020,morning,Durman Dinks,Forbidden Forest A,484.4382044
+3/6/2020,morning,Phillipe Juncadella,Forbidden Forest B,460.3812967
+3/7/2020,evening,Durman Dinks,Forbidden Forest A,495.1121018
+3/7/2020,morning,Phillipe Juncadella,Forbidden Forest B,521.3951095
+3/7/20,evening,Onsi Bahksh,Hogwarts School Grounds A,500.592938
+3/7/2020,morning,Rachel Cohen,Nocturn Alley,523.0680315
+3/7/20,evening,Cici Onyekwwere,The Leaky Cauldron,474.088948
+3/8/2020,morning,Durman Dinks,Forbidden Forest A,487.3510171
+3/8/2020,evening,Phillipe Juncadella,Forbidden Forest B,386.650335
+3/9/2020,evening,Durman Dinks,Forbidden Forest A,485.1680989
+3/9/2020,morning,Phillipe Juncadella,Forbidden Forest B,410.1331123
+3/9/2020,morning,Onsi Bahksh,Hogwarts School Grounds A,461.783335
+3/9/2020,morning,Cici Onyekwwere,The Leaky Cauldron,552.5211913
+3/10/2020,morning,Durman Dinks,Forbidden Forest A,451.0403612
+3/10/2020,evening,Phillipe Juncadella,Forbidden Forest B,415.3666316
+3/11/2020,evening,Durman Dinks,Forbidden Forest A,461.6027802
+3/11/2020,morning,Phillipe Juncadella,Forbidden Forest B,488.5979105
+3/11/20,evening,Onsi Bahksh,Hogwarts School Grounds A,405.8239364
+3/11/20,evening,Cici Onyekwwere,The Leaky Cauldron,486.0655112
+3/12/2020,morning,Durman Dinks,Forbidden Forest A,516.4009145
+3/12/2020,evening,Phillipe Juncadella,Forbidden Forest B,509.3058442
+3/13/2020,evening,Durman Dinks,Forbidden Forest A,501.2004909
+3/13/2020,morning,Phillipe Juncadella,Forbidden Forest B,446.5923065
+3/13/2020,morning,Onsi Bahksh,Hogwarts School Grounds A,405.4552819
+3/13/2020,evening,Rachel Cohen,Nocturn Alley,486.9086099
+3/13/2020,morning,Cici Onyekwwere,The Leaky Cauldron,563.4493675
+3/14/2020,morning,Durman Dinks,Forbidden Forest A,515.7936069
+3/14/2020,evening,Phillipe Juncadella,Forbidden Forest B,487.5937168
+3/15/2020,evening,Durman Dinks,Forbidden Forest A,482.0027738
+3/15/2020,morning,Phillipe Juncadella,Forbidden Forest B,381.8016905
+3/15/20,evening,Onsi Bahksh,Hogwarts School Grounds A,423.7735891
+3/15/20,evening,Cici Onyekwwere,The Leaky Cauldron,447.8106828
+3/16/2020,morning,Durman Dinks,Forbidden Forest A,539.6535652
+3/16/2020,evening,Phillipe Juncadella,Forbidden Forest B,466.9228306
+3/17/2020,morning,Durman Dinks,Forbidden Forest A,494.0706938
+3/17/2020,morning,Phillipe Juncadella,Forbidden Forest B,490.0319357
+3/17/2020,morning,Onsi Bahksh,Hogwarts School Grounds A,448.3948315
+3/17/2020,morning,Cici Onyekwwere,The Leaky Cauldron,434.0410299
+3/18/2020,evening,Durman Dinks,Forbidden Forest A,499.7947415
+3/18/2020,evening,Phillipe Juncadella,Forbidden Forest B,475.4536852
+3/19/2020,morning,Durman Dinks,Forbidden Forest A,529.9324426
+3/19/2020,morning,Phillipe Juncadella,Forbidden Forest B,378.9158069
+3/19/20,evening,Onsi Bahksh,Hogwarts School Grounds A,487.2309583
+3/19/2020,morning,Rachel Cohen,Nocturn Alley,518.5033275
+3/19/20,evening,Cici Onyekwwere,The Leaky Cauldron,526.3038678
+3/20/2020,evening,Durman Dinks,Forbidden Forest A,515.259833
+3/20/2020,evening,Phillipe Juncadella,Forbidden Forest B,407.1391976
+3/21/2020,morning,Durman Dinks,Forbidden Forest A,510.1109289
+3/21/2020,morning,Phillipe Juncadella,Forbidden Forest B,452.8564881
+3/21/2020,morning,Onsi Bahksh,Hogwarts School Grounds A,412.3749671
+3/21/2020,morning,Cici Onyekwwere,The Leaky Cauldron,486.0239573
+3/22/2020,evening,Durman Dinks,Forbidden Forest A,534.3653698
+3/22/2020,evening,Phillipe Juncadella,Forbidden Forest B,347.66983
+3/23/2020,morning,Durman Dinks,Forbidden Forest A,537.7709394
+3/23/2020,morning,Phillipe Juncadella,Forbidden Forest B,460.4019853
+3/23/20,evening,Onsi Bahksh,Hogwarts School Grounds A,527.3798959
+3/23/20,evening,Cici Onyekwwere,The Leaky Cauldron,485.0901651
+3/24/2020,evening,Durman Dinks,Forbidden Forest A,512.03102
+3/24/2020,evening,Phillipe Juncadella,Forbidden Forest B,511.7798313
+3/25/2020,morning,Durman Dinks,Forbidden Forest A,508.1882689
+3/25/2020,morning,Phillipe Juncadella,Forbidden Forest B,477.3561654
+3/25/2020,morning,Onsi Bahksh,Hogwarts School Grounds A,378.4758502
+3/25/2020,evening,Rachel Cohen,Nocturn Alley,466.3757259
+3/25/2020,morning,Cici Onyekwwere,The Leaky Cauldron,445.1138433
+3/26/2020,evening,Anubha Momen,Forbidden Forest A,494.9995919
+3/26/2020,morning,Phillipe Juncadella,Forbidden Forest B,443.9298733
+3/27/2020,morning,Anubha Momen,Forbidden Forest A,483.5692526
+3/27/2020,evening,Phillipe Juncadella,Forbidden Forest B,471.8780809
+3/27/20,evening,Onsi Bahksh,Hogwarts School Grounds A,460.4024955
+3/27/20,evening,Cici Onyekwwere,The Leaky Cauldron,484.2796596
+3/28/2020,evening,Anubha Momen,Forbidden Forest A,497.7804889
+3/28/2020,morning,Phillipe Juncadella,Forbidden Forest B,458.0593744
+3/29/2020,morning,Anubha Momen,Forbidden Forest A,503.1444214
+3/29/2020,evening,Onsi Bahksh,Forbidden Forest B,338.8363062
+3/29/2020,morning,Li Qin Shen,Hogwarts School Grounds A,409.0627372
+3/29/2020,morning,Cici Onyekwwere,The Leaky Cauldron,521.7940843
+3/30/2020,evening,Anubha Momen,Forbidden Forest A,528.1588273
+3/30/2020,morning,Onsi Bahksh,Forbidden Forest B,387.8398926
+3/31/2020,morning,Anubha Momen,Forbidden Forest A,517.1760231
+3/31/2020,evening,Onsi Bahksh,Forbidden Forest B,347.5286865
+3/31/20,evening,Li Qin Shen,Hogwarts School Grounds A,546.6642067
+3/31/2020,morning,Rachel Cohen,Nocturn Alley,513.7505149
+3/31/20,evening,Cici Onyekwwere,The Leaky Cauldron,501.1601762
+4/1/20,morning,Goodwin Schmitz,Chamber of Secrets,411.2079853
+4/1/2020,evening,Anubha Momen,Forbidden Forest A,512.2328275
+4/1/2020,morning,Onsi Bahksh,Forbidden Forest B,376.6369108
+4/2/2020,morning,Anubha Momen,Forbidden Forest A,521.8348413
+4/2/2020,evening,Onsi Bahksh,Forbidden Forest B,405.0218571
+4/2/2020,morning,Li Qin Shen,Hogwarts School Grounds A,566.8408563
+4/2/2020,morning,Cici Onyekwwere,The Leaky Cauldron,554.9935286
+4/3/2020,evening,Anubha Momen,Forbidden Forest A,535.9272408
+4/3/2020,morning,Onsi Bahksh,Forbidden Forest B,407.7392294
+4/4/2020,morning,Anubha Momen,Forbidden Forest A,499.2267597
+4/4/2020,evening,Onsi Bahksh,Forbidden Forest B,407.889007
+4/4/20,evening,Li Qin Shen,Hogwarts School Grounds A,388.7939841
+4/4/20,evening,Cici Onyekwwere,The Leaky Cauldron,470.2857172
+4/5/2020,morning,Anubha Momen,Forbidden Forest A,503.0022381
+4/5/2020,morning,Onsi Bahksh,Forbidden Forest B,540.0685169
+4/6/2020,evening,Anubha Momen,Forbidden Forest A,511.6766538
+4/6/2020,evening,Onsi Bahksh,Forbidden Forest B,494.9502979
+4/6/2020,morning,Li Qin Shen,Hogwarts School Grounds A,444.6422214
+4/6/2020,evening,Rachel Cohen,Nocturn Alley,529.8505286
+4/6/2020,morning,Cici Onyekwwere,The Leaky Cauldron,530.0763936
+4/7/2020,morning,Anubha Momen,Forbidden Forest A,475.1842909
+4/7/2020,morning,Onsi Bahksh,Forbidden Forest B,409.1049344
+4/8/2020,evening,Anubha Momen,Forbidden Forest A,513.3238291
+4/8/2020,evening,Onsi Bahksh,Forbidden Forest B,421.4682288
+4/8/20,evening,Li Qin Shen,Hogwarts School Grounds A,488.6133409
+4/8/20,evening,Cici Onyekwwere,The Leaky Cauldron,438.0631898
+4/9/2020,morning,Anubha Momen,Forbidden Forest A,526.3451372
+4/9/2020,morning,Onsi Bahksh,Forbidden Forest B,486.8373761
+4/10/2020,evening,Anubha Momen,Forbidden Forest A,488.1799138
+4/10/2020,evening,Onsi Bahksh,Forbidden Forest B,424.3419323
+4/10/2020,morning,Li Qin Shen,Hogwarts School Grounds A,499.8357052
+4/10/2020,morning,Cici Onyekwwere,The Leaky Cauldron,458.4677376
+4/11/2020,morning,Anubha Momen,Forbidden Forest A,470.8811092
+4/11/2020,morning,Onsi Bahksh,Forbidden Forest B,432.0475435
+4/12/2020,evening,Anubha Momen,Forbidden Forest A,503.4600444
+4/12/2020,evening,Onsi Bahksh,Forbidden Forest B,344.102719
+4/12/20,evening,Li Qin Shen,Hogwarts School Grounds A,609.9026295
+4/12/2020,morning,Rachel Cohen,Nocturn Alley,520.1018606
+4/12/20,evening,Cici Onyekwwere,The Leaky Cauldron,382.3853079
+4/13/2020,morning,Anubha Momen,Forbidden Forest A,470.1187392
+4/13/2020,morning,Onsi Bahksh,Forbidden Forest B,383.2254755
+4/14/2020,evening,Anubha Momen,Forbidden Forest A,492.4985911
+4/14/2020,morning,Onsi Bahksh,Forbidden Forest B,436.4717599
+4/14/2020,morning,Li Qin Shen,Hogwarts School Grounds A,523.9512697
+4/14/2020,morning,Cici Onyekwwere,The Leaky Cauldron,490.9358286
+4/15/2020,morning,Anubha Momen,Forbidden Forest A,528.4117265
+4/15/2020,evening,Onsi Bahksh,Forbidden Forest B,454.3782577
+4/16/2020,evening,Anubha Momen,Forbidden Forest A,510.3807147
+4/16/2020,morning,Onsi Bahksh,Forbidden Forest B,376.700934
+4/16/20,evening,Li Qin Shen,Hogwarts School Grounds A,499.9463955
+4/16/20,evening,Cici Onyekwwere,The Leaky Cauldron,452.7619582
+4/17/2020,morning,Anubha Momen,Forbidden Forest A,488.1922869
+4/17/2020,evening,Onsi Bahksh,Forbidden Forest B,537.9414613
+4/18/2020,evening,Anubha Momen,Forbidden Forest A,509.504868
+4/18/2020,morning,Onsi Bahksh,Forbidden Forest B,416.5668339
+4/18/2020,morning,Li Qin Shen,Hogwarts School Grounds A,349.0636341
+4/18/2020,morning,Rachel Cohen,Nocturn Alley,527.0183121
+4/18/2020,morning,Cici Onyekwwere,The Leaky Cauldron,448.1409252
+4/19/2020,morning,Anubha Momen,Forbidden Forest A,537.0414627
+4/19/2020,evening,Onsi Bahksh,Forbidden Forest B,428.0532726
+4/20/2020,evening,Anubha Momen,Forbidden Forest A,505.6803507
+4/20/2020,morning,Onsi Bahksh,Forbidden Forest B,426.7590941
+4/20/20,evening,Li Qin Shen,Hogwarts School Grounds A,383.400371
+4/20/20,evening,Cici Onyekwwere,The Leaky Cauldron,419.2633066
+4/21/2020,morning,Anubha Momen,Forbidden Forest A,514.5469351
+4/21/2020,evening,Onsi Bahksh,Forbidden Forest B,426.9332047
+4/22/2020,evening,Anubha Momen,Forbidden Forest A,545.8943274
+4/22/2020,morning,Onsi Bahksh,Forbidden Forest B,356.5793647
+4/22/2020,morning,Li Qin Shen,Hogwarts School Grounds A,496.0156269
+4/22/2020,morning,Cici Onyekwwere,The Leaky Cauldron,480.6793843
+4/23/2020,morning,Anubha Momen,Forbidden Forest A,456.8950327
+4/23/2020,evening,Onsi Bahksh,Forbidden Forest B,457.0652229
+4/24/2020,morning,Anubha Momen,Forbidden Forest A,522.3222628
+4/24/2020,morning,Onsi Bahksh,Forbidden Forest B,428.2052218
+4/24/20,evening,Li Qin Shen,Hogwarts School Grounds A,497.949915
+4/24/2020,evening,Rachel Cohen,Nocturn Alley,493.1077949
+4/24/20,evening,Cici Onyekwwere,The Leaky Cauldron,482.0549047
+4/25/2020,evening,Anubha Momen,Forbidden Forest A,463.1028096
+4/25/2020,evening,Onsi Bahksh,Forbidden Forest B,335.1042363
+4/26/2020,morning,Anubha Momen,Forbidden Forest A,486.3691004
+4/26/2020,morning,Onsi Bahksh,Forbidden Forest B,399.3479226
+4/26/2020,morning,Li Qin Shen,Hogwarts School Grounds A,472.2299203
+4/26/2020,morning,Cici Onyekwwere,The Leaky Cauldron,465.0587373
+4/27/2020,evening,Anubha Momen,Forbidden Forest A,523.2363038
+4/27/2020,evening,Onsi Bahksh,Forbidden Forest B,458.6457289
+4/28/2020,morning,Anubha Momen,Forbidden Forest A,492.9508696
+4/28/2020,morning,Onsi Bahksh,Forbidden Forest B,357.8941685
+4/28/20,evening,Li Qin Shen,Hogwarts School Grounds A,464.9585826
+4/28/20,evening,Cici Onyekwwere,The Leaky Cauldron,463.4843844
+4/29/2020,evening,Anubha Momen,Forbidden Forest A,463.1664988
+4/29/2020,evening,Onsi Bahksh,Forbidden Forest B,393.971587
+4/30/2020,morning,Anubha Momen,Forbidden Forest A,466.5817607
+4/30/2020,morning,Onsi Bahksh,Forbidden Forest B,446.7242531
+4/30/2020,morning,Li Qin Shen,Hogwarts School Grounds A,408.5221085
+4/30/2020,morning,Rachel Cohen,Nocturn Alley,519.4848476
+4/30/2020,morning,Cici Onyekwwere,The Leaky Cauldron,464.7812482
+5/1/2020,morning,Angela Birkenstock,Chamber of Secrets,324.6531588
+5/1/2020,evening,Anubha Momen,Forbidden Forest A,515.2065269
+5/1/2020,evening,Onsi Bahksh,Forbidden Forest B,411.2073244
+5/2/2020,morning,Anubha Momen,Forbidden Forest A,515.1721625
+5/2/2020,morning,Onsi Bahksh,Forbidden Forest B,455.5900659
+5/2/20,evening,Li Qin Shen,Hogwarts School Grounds A,443.9079192
+5/2/20,evening,Cici Onyekwwere,The Leaky Cauldron,515.7505385
+5/3/2020,evening,Anubha Momen,Forbidden Forest A,505.4527581
+5/3/2020,morning,Onsi Bahksh,Forbidden Forest B,320.9904237
+5/4/2020,morning,Anubha Momen,Forbidden Forest A,537.605358
+5/4/2020,evening,Onsi Bahksh,Forbidden Forest B,494.731363
+5/4/2020,morning,Li Qin Shen,Hogwarts School Grounds A,456.3596455
+5/4/2020,morning,Cici Onyekwwere,The Leaky Cauldron,452.4212804
+5/5/2020,evening,Anubha Momen,Forbidden Forest A,543.2462017
+5/5/2020,morning,Onsi Bahksh,Forbidden Forest B,406.6120792
+5/6/2020,morning,Anubha Momen,Forbidden Forest A,510.2761663
+5/6/2020,evening,Onsi Bahksh,Forbidden Forest B,531.9376438
+5/6/20,evening,Li Qin Shen,Hogwarts School Grounds A,428.4596572
+5/6/2020,evening,Rachel Cohen,Nocturn Alley,487.0664211
+5/6/20,evening,Cici Onyekwwere,The Leaky Cauldron,430.84785
+5/7/2020,evening,Anubha Momen,Forbidden Forest A,521.8294779
+5/7/2020,morning,Onsi Bahksh,Forbidden Forest B,422.5863657
+5/8/2020,morning,Anubha Momen,Forbidden Forest A,464.7078617
+5/8/2020,evening,Onsi Bahksh,Forbidden Forest B,360.8702727
+5/8/2020,morning,Li Qin Shen,Hogwarts School Grounds A,302.5962334
+5/8/2020,morning,Cici Onyekwwere,The Leaky Cauldron,494.325954
+5/9/2020,evening,Anubha Momen,Forbidden Forest A,544.528352
+5/9/2020,morning,Onsi Bahksh,Forbidden Forest B,479.1744549
+5/10/2020,morning,Anubha Momen,Forbidden Forest A,500.1527488
+5/10/2020,evening,Onsi Bahksh,Forbidden Forest B,446.7225409
+5/10/20,evening,Li Qin Shen,Hogwarts School Grounds A,457.5464954
+5/10/20,evening,Cici Onyekwwere,The Leaky Cauldron,503.6136552
+5/11/2020,evening,Anubha Momen,Forbidden Forest A,486.4522729
+5/11/2020,morning,Radhika Patel,Forbidden Forest B,440.6199517
+5/12/2020,morning,Anubha Momen,Forbidden Forest A,522.1517849
+5/12/2020,evening,Radhika Patel,Forbidden Forest B,437.0977709
+5/12/2020,morning,Li Qin Shen,Hogwarts School Grounds A,417.6998064
+5/12/2020,morning,Rachel Cohen,Nocturn Alley,501.9555698
+5/12/2020,morning,Cici Onyekwwere,The Leaky Cauldron,425.9417192
+5/13/2020,morning,Anubha Momen,Forbidden Forest A,498.6197585
+5/13/2020,morning,Radhika Patel,Forbidden Forest B,354.9416559
+5/14/2020,evening,Anubha Momen,Forbidden Forest A,534.9142876
+5/14/2020,evening,Radhika Patel,Forbidden Forest B,424.3419784
+5/14/20,evening,Li Qin Shen,Hogwarts School Grounds A,498.0241034
+5/14/20,evening,Cici Onyekwwere,The Leaky Cauldron,522.2067934
+5/15/2020,morning,Anubha Momen,Forbidden Forest A,485.7590657
+5/15/2020,morning,Radhika Patel,Forbidden Forest B,508.9181449
+5/16/2020,evening,Anubha Momen,Forbidden Forest A,468.7320968
+5/16/2020,evening,Radhika Patel,Forbidden Forest B,404.1228175
+5/16/2020,morning,Li Qin Shen,Hogwarts School Grounds A,361.8572811
+5/16/2020,morning,Cici Onyekwwere,The Leaky Cauldron,484.3385076
+5/17/2020,morning,Anubha Momen,Forbidden Forest A,535.6319242
+5/17/2020,morning,Radhika Patel,Forbidden Forest B,432.245347
+5/18/2020,evening,Anubha Momen,Forbidden Forest A,515.6058356
+5/18/2020,evening,Radhika Patel,Forbidden Forest B,367.3092919
+5/18/20,evening,Li Qin Shen,Hogwarts School Grounds A,524.7625153
+5/18/2020,evening,Rachel Cohen,Nocturn Alley,479.1433624
+5/18/20,evening,Cici Onyekwwere,The Leaky Cauldron,460.2565954
+5/19/2020,morning,Anubha Momen,Forbidden Forest A,505.4544753
+5/19/2020,morning,Radhika Patel,Forbidden Forest B,491.0329527
+5/20/2020,evening,Anubha Momen,Forbidden Forest A,504.5040149
+5/20/2020,evening,Radhika Patel,Forbidden Forest B,363.3859597
+5/20/2020,morning,Li Qin Shen,Hogwarts School Grounds A,491.3895551
+5/20/2020,morning,Cici Onyekwwere,The Leaky Cauldron,517.3482645
+5/21/2020,morning,Anubha Momen,Forbidden Forest A,472.5741986
+5/21/2020,morning,Radhika Patel,Forbidden Forest B,499.1271193
+5/22/2020,evening,Anubha Momen,Forbidden Forest A,478.492568
+5/22/2020,morning,Radhika Patel,Forbidden Forest B,334.5228301
+5/22/20,evening,Li Qin Shen,Hogwarts School Grounds A,451.8637428
+5/22/20,evening,Cici Onyekwwere,The Leaky Cauldron,526.7153279
+5/23/2020,morning,Anubha Momen,Forbidden Forest A,514.9190514
+5/23/2020,evening,Radhika Patel,Forbidden Forest B,418.4274714
+5/24/2020,evening,Anubha Momen,Forbidden Forest A,500.2528676
+5/24/2020,morning,Radhika Patel,Forbidden Forest B,493.9475462
+5/24/2020,morning,Li Qin Shen,Hogwarts School Grounds A,455.3432419
+5/24/2020,morning,Rachel Cohen,Nocturn Alley,494.0979288
+5/24/2020,morning,Cici Onyekwwere,The Leaky Cauldron,453.9019925
+5/25/2020,morning,Anubha Momen,Forbidden Forest A,505.9465969
+5/25/2020,evening,Radhika Patel,Forbidden Forest B,484.6327893
+5/26/2020,evening,Anubha Momen,Forbidden Forest A,546.111706
+5/26/2020,morning,Radhika Patel,Forbidden Forest B,605.5627676
+5/26/20,evening,Li Qin Shen,Hogwarts School Grounds A,412.0202965
+5/26/20,evening,Cici Onyekwwere,The Leaky Cauldron,516.1631622
+5/27/2020,morning,Anubha Momen,Forbidden Forest A,457.5298085
+5/27/2020,evening,Radhika Patel,Forbidden Forest B,320.6325196
+5/28/2020,evening,Anubha Momen,Forbidden Forest A,512.6393113
+5/28/2020,morning,Radhika Patel,Forbidden Forest B,388.699313
+5/28/2020,morning,Li Qin Shen,Hogwarts School Grounds A,410.9360811
+5/28/2020,morning,Cici Onyekwwere,The Leaky Cauldron,497.2861652
+5/29/2020,morning,Anubha Momen,Forbidden Forest A,433.429836
+5/29/2020,evening,Radhika Patel,Forbidden Forest B,486.2059227
+5/30/2020,evening,Anubha Momen,Forbidden Forest A,526.0243763
+5/30/2020,morning,Radhika Patel,Forbidden Forest B,423.7091654
+5/30/20,evening,Li Qin Shen,Hogwarts School Grounds A,485.4059215
+5/30/2020,evening,Rachel Cohen,Nocturn Alley,524.7859352
+5/30/20,evening,Cici Onyekwwere,The Leaky Cauldron,450.343123
+5/31/2020,morning,Anubha Momen,Forbidden Forest A,518.6144107
+5/31/2020,evening,Radhika Patel,Forbidden Forest B,537.3016257
+6/1/20,morning,Angela Birkenstock,Chamber of Secrets,403.2486033
+6/1/2020,morning,Anubha Momen,Forbidden Forest A,482.1724937
+6/1/2020,morning,Radhika Patel,Forbidden Forest B,422.8128176
+6/1/2020,morning,Li Qin Shen,Hogwarts School Grounds A,450.9826207
+6/1/2020,morning,Cici Onyekwwere,The Leaky Cauldron,457.6851516
+6/2/2020,evening,Anubha Momen,Forbidden Forest A,485.6054072
+6/2/2020,evening,Radhika Patel,Forbidden Forest B,509.6195955
+6/3/2020,morning,Anubha Momen,Forbidden Forest A,506.0934795
+6/3/2020,morning,Radhika Patel,Forbidden Forest B,405.1876967
+6/3/20,evening,Li Qin Shen,Hogwarts School Grounds A,422.01448
+6/3/20,evening,Intern 2,The Leaky Cauldron,504.4015758
+6/4/2020,evening,Anubha Momen,Forbidden Forest A,515.8409543
+6/4/2020,evening,Radhika Patel,Forbidden Forest B,398.4226656
+6/5/2020,morning,Anubha Momen,Forbidden Forest A,502.1142782
+6/5/2020,morning,Radhika Patel,Forbidden Forest B,449.2378375
+6/5/2020,morning,Li Qin Shen,Hogwarts School Grounds A,281.9527956
+6/5/2020,morning,Rachel Cohen,Nocturn Alley,480.0881684
+6/5/2020,morning,Intern 2,The Leaky Cauldron,507.387372
+6/6/2020,evening,Anubha Momen,Forbidden Forest A,494.6195817
+6/6/2020,evening,Radhika Patel,Forbidden Forest B,448.5851725
+6/7/2020,morning,Anubha Momen,Forbidden Forest A,540.4136808
+6/7/2020,morning,Radhika Patel,Forbidden Forest B,409.3572694
+6/7/20,evening,Li Qin Shen,Hogwarts School Grounds A,408.6499616
+6/7/20,evening,Intern 2,The Leaky Cauldron,535.1069544
+6/8/2020,evening,Anubha Momen,Forbidden Forest A,478.7632541
+6/8/2020,evening,Radhika Patel,Forbidden Forest B,457.7042774
+6/9/2020,morning,Anubha Momen,Forbidden Forest A,510.0829049
+6/9/2020,morning,Radhika Patel,Forbidden Forest B,449.9477742
+6/9/2020,morning,Li Qin Shen,Hogwarts School Grounds A,452.9853215
+6/9/2020,morning,Intern 2,The Leaky Cauldron,453.9890379
+6/10/2020,evening,Anubha Momen,Forbidden Forest A,516.0942893
+6/10/2020,morning,Radhika Patel,Forbidden Forest B,365.6861477
+6/11/2020,morning,Anubha Momen,Forbidden Forest A,511.9265138
+6/11/2020,evening,Radhika Patel,Forbidden Forest B,380.064028
+6/11/20,evening,Li Qin Shen,Hogwarts School Grounds A,453.035507
+6/11/2020,evening,Rachel Cohen,Nocturn Alley,493.5041619
+6/11/20,evening,Intern 2,The Leaky Cauldron,573.5443231
+6/12/2020,evening,Anubha Momen,Forbidden Forest A,519.8870934
+6/12/2020,morning,Cici Onyekwwere,Forbidden Forest B,355.6668134
+6/13/2020,morning,Anubha Momen,Forbidden Forest A,523.8885731
+6/13/2020,evening,Cici Onyekwwere,Forbidden Forest B,569.8072932
+6/13/2020,morning,Li Qin Shen,Hogwarts School Grounds A,445.6143304
+6/13/2020,morning,Intern 2,The Leaky Cauldron,445.5589335
+6/14/2020,evening,Anubha Momen,Forbidden Forest A,526.7597123
+6/14/2020,morning,Cici Onyekwwere,Forbidden Forest B,349.8887978
+6/15/2020,morning,Anubha Momen,Forbidden Forest A,470.5126549
+6/15/2020,evening,Cici Onyekwwere,Forbidden Forest B,455.0913997
+6/15/20,evening,Li Qin Shen,Hogwarts School Grounds A,401.887491
+6/15/20,evening,Intern 2,The Leaky Cauldron,480.578259
+6/16/2020,evening,Anubha Momen,Forbidden Forest A,457.4851976
+6/16/2020,morning,Cici Onyekwwere,Forbidden Forest B,412.2977082
+6/17/2020,morning,Anubha Momen,Forbidden Forest A,497.2238003
+6/17/2020,evening,Cici Onyekwwere,Forbidden Forest B,377.5797944
+6/17/2020,morning,Li Qin Shen,Hogwarts School Grounds A,387.4824149
+6/17/2020,morning,Rachel Cohen,Nocturn Alley,463.1594352
+6/17/2020,morning,Intern 2,The Leaky Cauldron,520.9684773
+6/18/2020,evening,Anubha Momen,Forbidden Forest A,465.9736681
+6/18/2020,morning,Cici Onyekwwere,Forbidden Forest B,533.9561702
+6/19/2020,morning,Anubha Momen,Forbidden Forest A,564.6843137
+6/19/2020,evening,Cici Onyekwwere,Forbidden Forest B,411.3405257
+6/19/20,evening,Li Qin Shen,Hogwarts School Grounds A,397.0154958
+6/19/20,evening,Intern 2,The Leaky Cauldron,531.6883137
+6/20/2020,morning,Anubha Momen,Forbidden Forest A,519.4632177
+6/20/2020,morning,Cici Onyekwwere,Forbidden Forest B,506.8572052
+6/21/2020,evening,Anubha Momen,Forbidden Forest A,486.287964
+6/21/2020,evening,Cici Onyekwwere,Forbidden Forest B,354.3603015
+6/21/2020,morning,Li Qin Shen,Hogwarts School Grounds A,445.3197975
+6/21/2020,morning,Intern 2,The Leaky Cauldron,498.5850502
+6/22/2020,morning,Anubha Momen,Forbidden Forest A,511.6047546
+6/22/2020,morning,Cici Onyekwwere,Forbidden Forest B,446.793812
+6/23/2020,evening,Anubha Momen,Forbidden Forest A,483.5138303
+6/23/2020,evening,Cici Onyekwwere,Forbidden Forest B,486.3845
+6/23/20,evening,Angela Birkenstock,Hogwarts School Grounds A,436.576927
+6/23/2020,evening,Rachel Cohen,Nocturn Alley,481.2589622
+6/23/20,evening,Intern 2,The Leaky Cauldron,474.6241184
+6/24/2020,morning,Anubha Momen,Forbidden Forest A,477.262799
+6/24/2020,morning,Cici Onyekwwere,Forbidden Forest B,359.7353719
+6/25/2020,evening,Anubha Momen,Forbidden Forest A,483.1232902
+6/25/2020,evening,Cici Onyekwwere,Forbidden Forest B,409.4117397
+6/25/2020,morning,Angela Birkenstock,Hogwarts School Grounds A,428.9409472
+6/25/2020,morning,Intern 2,The Leaky Cauldron,488.544957
+6/26/2020,morning,Anubha Momen,Forbidden Forest A,470.5396181
+6/26/2020,morning,Cici Onyekwwere,Forbidden Forest B,427.6704533
+6/27/2020,evening,Anubha Momen,Forbidden Forest A,451.8354329
+6/27/2020,evening,Cici Onyekwwere,Forbidden Forest B,430.7292841
+6/27/20,evening,Angela Birkenstock,Hogwarts School Grounds A,486.7876982
+6/27/20,evening,Intern 2,The Leaky Cauldron,475.9139875
+6/28/2020,morning,Anubha Momen,Forbidden Forest A,486.5319917
+6/28/2020,morning,Cici Onyekwwere,Forbidden Forest B,463.5768463
+6/29/2020,evening,Anubha Momen,Forbidden Forest A,537.4802317
+6/29/2020,morning,Cici Onyekwwere,Forbidden Forest B,399.8816431
+6/29/2020,morning,Angela Birkenstock,Hogwarts School Grounds A,518.8100356
+6/29/2020,morning,Rachel Cohen,Nocturn Alley,528.8479989
+6/29/2020,morning,Intern 2,The Leaky Cauldron,489.9042294
+6/30/2020,morning,Anubha Momen,Forbidden Forest A,500.1359176
+6/30/2020,evening,Cici Onyekwwere,Forbidden Forest B,332.3952445
+7/1/2020,morning,Angela Birkenstock,Chamber of Secrets,462.5660262
+7/1/2020,evening,Anubha Momen,Forbidden Forest A,473.3698514
+7/1/2020,morning,Cici Onyekwwere,Forbidden Forest B,437.97735
+7/1/20,evening,Intern 1,Hogwarts School Grounds A,363.9343961
+7/1/20,evening,Intern 2,The Leaky Cauldron,472.2169345
+7/2/2020,morning,Anubha Momen,Forbidden Forest A,510.8181597
+7/2/2020,evening,Cici Onyekwwere,Forbidden Forest B,352.4389603
+7/3/2020,evening,Anubha Momen,Forbidden Forest A,557.6752727
+7/3/2020,morning,Cici Onyekwwere,Forbidden Forest B,432.8908826
+7/3/2020,morning,Angela Birkenstock,Hogwarts School Grounds A,460.7745823
+7/3/2020,morning,Intern 2,The Leaky Cauldron,465.7899252
+7/4/2020,morning,Anubha Momen,Forbidden Forest A,512.5249023
+7/4/2020,evening,Cici Onyekwwere,Forbidden Forest B,370.243443
+7/5/2020,evening,Anubha Momen,Forbidden Forest A,466.3987903
+7/5/2020,morning,Cici Onyekwwere,Forbidden Forest B,403.0483286
+7/5/20,evening,Angela Birkenstock,Hogwarts School Grounds A,519.185924
+7/5/2020,evening,Rachel Cohen,Nocturn Alley,484.9235748
+7/5/20,evening,Intern 2,The Leaky Cauldron,481.9821887
+7/6/2020,morning,Anubha Momen,Forbidden Forest A,564.871638
+7/6/2020,evening,Cici Onyekwwere,Forbidden Forest B,497.8244463
+7/7/2020,evening,Anubha Momen,Forbidden Forest A,506.4136504
+7/7/2020,morning,Cici Onyekwwere,Forbidden Forest B,410.3072572
+7/7/2020,morning,Angela Birkenstock,Hogwarts School Grounds A,392.5998517
+7/7/2020,morning,Intern 2,The Leaky Cauldron,472.6707708
+7/8/2020,morning,Anubha Momen,Forbidden Forest A,494.6150539
+7/8/2020,evening,Cici Onyekwwere,Forbidden Forest B,434.2567162
+7/9/2020,morning,Anubha Momen,Forbidden Forest A,494.1455025
+7/9/2020,morning,Cici Onyekwwere,Forbidden Forest B,419.7674365
+7/9/20,evening,Angela Birkenstock,Hogwarts School Grounds A,563.0568165
+7/9/20,evening,Intern 2,The Leaky Cauldron,445.8000622
+7/10/2020,evening,Anubha Momen,Forbidden Forest A,495.9721837
+7/10/2020,evening,Cici Onyekwwere,Forbidden Forest B,501.7287141
+7/11/2020,morning,Anubha Momen,Forbidden Forest A,557.8401798
+7/11/2020,morning,Cici Onyekwwere,Forbidden Forest B,420.627722
+7/11/2020,morning,Angela Birkenstock,Hogwarts School Grounds A,415.3639956
+7/11/2020,morning,Rachel Cohen,Nocturn Alley,463.4153048
+7/11/2020,morning,Intern 2,The Leaky Cauldron,499.7127163
+7/12/2020,evening,Anubha Momen,Forbidden Forest A,494.7409346
+7/12/2020,evening,Cici Onyekwwere,Forbidden Forest B,532.2352322
+7/13/2020,morning,Anubha Momen,Forbidden Forest A,507.4260615
+7/13/2020,morning,Cici Onyekwwere,Forbidden Forest B,362.6683266
+7/13/20,evening,Angela Birkenstock,Hogwarts School Grounds A,536.430897
+7/13/20,evening,Intern 2,The Leaky Cauldron,518.1084078
+7/14/2020,evening,Anubha Momen,Forbidden Forest A,512.9843499
+7/14/2020,evening,Cici Onyekwwere,Forbidden Forest B,506.3070867
+7/15/2020,morning,Anubha Momen,Forbidden Forest A,490.2103445
+7/15/2020,morning,Cici Onyekwwere,Forbidden Forest B,415.2688725
+7/15/2020,morning,Angela Birkenstock,Hogwarts School Grounds A,363.4494089
+7/15/2020,morning,Intern 2,The Leaky Cauldron,481.247405
+7/16/2020,evening,Anubha Momen,Forbidden Forest A,485.3316617
+7/16/2020,evening,Cici Onyekwwere,Forbidden Forest B,431.4118301
+7/17/2020,morning,Anubha Momen,Forbidden Forest A,485.2792221
+7/17/2020,morning,Cici Onyekwwere,Forbidden Forest B,384.2512485
+7/17/20,evening,Angela Birkenstock,Hogwarts School Grounds A,505.2965125
+7/17/2020,evening,Rachel Cohen,Nocturn Alley,508.6380669
+7/17/20,evening,Intern 2,The Leaky Cauldron,463.6952772
+7/18/2020,evening,Anubha Momen,Forbidden Forest A,520.2587288
+7/18/2020,morning,Cici Onyekwwere,Forbidden Forest B,365.5895875
