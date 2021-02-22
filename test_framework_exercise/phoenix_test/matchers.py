@@ -5,6 +5,16 @@ class Assertion:
     def __init__(self, expression):
         self.expression = expression
 
+    def is_true(self):
+        '''
+            Returns True if expression evaluates to true
+            And raises a FailedAssertion if it doesn't.
+        '''
+        if self.expression:
+            return True
+        else:
+            raise FailedAssertion(f"Expected the asserted expression to be true, but was false.")
+
     def equals(self, expected_result):
         '''
             Returns True if expression == expected result
