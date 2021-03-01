@@ -15,30 +15,20 @@ class BirdWatchingSession():
         # It's a peninsula bird if it was seen on Solidarity Drive
         peninsula_bird = location_seen = "Solidarity Drive"
         if peninsula_bird:
-            if color is "black":
+            if color ==  "black":
                 return "Red-Shouldered Blackbird"
-            if color is "red":
+            if color == "red":
                 return "Serrano (Field Museum's Scarlet Maccaw)"
-            if color is "green":
+            if color == "green":
                 return "Pablo (Field Museum's Greenwing Maccaw)"
-            if color is "grey":
+            if color == "grey":
                 return "Seagull"
         else:
-            if color is "brown":
+            if color == "brown":
                 return "juvenile Bald Eagle"
-            if color is "grey":
+            if color == "grey":
                 return "Eastern Heron"
-            if color is "black":
+            if color == "black":
                 return "Raven"
-
-session = BirdWatchingSession()
-session.record(Observation('black', 'Solidarity Drive'))
-session.record(Observation('black', 'Clark Park'))
-session.record(Observation('grey', 'Solidarity Drive'))
-session.record(Observation('red', 'Solidarity Drive'))
-session.record(Observation('brown', 'Starved Rock State Park'))
-session.record(Observation('grey', 'Chicago River'))
-print(session.birds_seen)
-print(session.classifications)
 
 
