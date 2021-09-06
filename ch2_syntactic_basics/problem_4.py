@@ -1,6 +1,13 @@
-def find_numbers():
-    '''
-        This function computes the combinations of the numbers, 1 through 9, for which
 
-        ABC = A*B*C*(A+B+C)
+def expand_letter_ranges(string_of_letters):
     '''
+        This function takes in a comma-separated string of letters and letter ranges and
+        returns a list of the letters and expanded ranges in alphabetical order.
+
+        Inputs:
+            string_of_letters (string): a comma-separated string of letters and letter ranges.
+
+        Output:
+            a list of the letters and expanded ranges in alphabetical order.
+        '''
+    pass
