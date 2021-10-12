@@ -1,2 +1,2 @@
-def vectorize():
+def vectorize(func):
     pass
