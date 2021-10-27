@@ -11,7 +11,7 @@ class Series(list):
     avg = average
 
     def apply(self, func):
-        self = [func(x) for x in self]
+        self = Series([func(x) for x in self])
         return self
 
 
@@ -117,8 +117,8 @@ class DataFrame():
                     for key in row.keys():
                         df._dictionary[key] = Series()
                     header_unread = False
-                else:
-                    df._list.append(row)
+                
+                df._list.append(row)
 
                 for key in row.keys():
                     df._dictionary[key].append(row[key])
@@ -135,6 +135,7 @@ class DataFrame():
         for row in rows:
             for key in rows[0].keys():
                 df._dictionary[key].append(row[key])
+        
             df._list.append(row)
 
         for key in list(df._dictionary.keys()):
