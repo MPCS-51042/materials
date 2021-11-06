@@ -1,0 +1,1 @@
+## How would you describe method resolution order in the diamond pattern?
