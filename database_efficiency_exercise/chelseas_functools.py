@@ -636,6 +636,7 @@ def _lru_cache_wrapper(user_function, maxsize, typed, _CacheInfo):
 
     wrapper.cache_info = cache_info
     wrapper.cache_clear = cache_clear
+    wrapper.cache = cache
     return wrapper
 
 try:
