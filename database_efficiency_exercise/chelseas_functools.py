@@ -6,6 +6,16 @@
 # Written by Nick Coghlan <ncoghlan at gmail.com>,
 # Raymond Hettinger <python at rcn.com>,
 # and Łukasz Langa <lukasz at langa.pl>.
+
+# AND THEN STOLEN BY CHELSEA TROY IN 2021
+# from the source: https://github.com/python/cpython/blob/main/Lib/functools.py
+# and modified so that students can inspect the cache.
+# DO NOT USE THIS IMPLEMENTATION FOR ANY PURPOSE BESIDES EDUCATION
+# I AM SO SERIOUS
+# THAT IS WHY IT'S CALLED CHELSEAS_FUNCTOOLS AND NOT FUNCTOOLS
+# Search "Chelsea" in this file to find the locations and descriptions
+# Of all the changes she made to functools' original implementation.
+
 #   Copyright (C) 2006-2013 Python Software Foundation.
 # See C source code for _functools credits/copyright
 
@@ -636,14 +646,11 @@ def _lru_cache_wrapper(user_function, maxsize, typed, _CacheInfo):
 
     wrapper.cache_info = cache_info
     wrapper.cache_clear = cache_clear
-    wrapper.cache = cache
+    wrapper.cache = cache #This is the line Chelsea added
     return wrapper
 
-try:
-    from _functools import _lru_cache_wrapper
-except ImportError:
-    pass
-
+# Chelsea removed four lines right here that imported an implementation
+# of _lru_cache_wrapper from C
 
 ################################################################################
 ### cache -- simplified access to the infinity cache
