@@ -1,2 +1,0 @@
-class Stream:
-    pass
