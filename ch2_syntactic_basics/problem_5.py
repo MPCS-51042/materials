@@ -1,3 +1,4 @@
+#string_of_numbers = "1 2 3"
 
 def mean(string_of_numbers):
     '''
@@ -10,4 +11,19 @@ def mean(string_of_numbers):
         Output:
             a float, the mean of the inputted numbers.
         '''
-    pass
+    list_input = string_of_numbers.split(' ')
+
+    if string_of_numbers == '':
+        mean = 0.0
+    else:
+        list_numbers = []
+        for item in list_input:
+            list_numbers.append(int(item))
+
+        total_calculation = sum(list_numbers)
+
+        mean = total_calculation/len(list_numbers)
+
+    return mean
+
+#print(mean(string_of_numbers))
