@@ -23,4 +23,16 @@ def power_status(grid, row_bounds, col_bounds):
         Returns a list of booleans indicating the power status of the homes within the bounds of the sector.
 
     '''
-    pass
+    output = []
+
+    rows = len(grid) + 1
+    columns = len(grid[0]) + 1
+    if (row_bounds[-1] > rows) or ((col_bounds[-1]) > columns):
+        return "exceeding upper-bound"
+    
+    else:
+        for i in range(row_bounds[0],row_bounds[-1]):
+            for j in range(col_bounds[0],col_bounds[-1]):
+                output.append(grid[i][j])
+
+        return output

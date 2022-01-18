@@ -13,4 +13,17 @@ def find_twos(string_1, string_2):
         Output:
             A list of integers, where the list contents is described by above. The returned list must not contain duplicates.
         '''
-    pass
+    list1 = string_1.split(",")
+    list2 = string_2.split(",")
+    
+    result = []
+    
+    for a in list1:
+        a3 = a.strip()
+        if "2" in a3:
+            for b in list2:
+                if (b.strip() == a3) and (int(a3) not in result):
+                    result.append(int(a3))
+    return result
+    
+   

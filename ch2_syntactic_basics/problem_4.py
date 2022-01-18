@@ -10,4 +10,29 @@ def expand_letter_ranges(string_of_letters):
         Output:
             a list of the letters and expanded ranges in alphabetical order.
         '''
-    pass
+    if string_of_letters == "":
+        return []
+
+    else:
+        inputs = string_of_letters.split(",")
+        output_num = []
+
+        for input in inputs:
+            input_uppercase = input.upper()
+
+            if "-" in input_uppercase:
+                start = ord(input_uppercase[0])
+                end = ord(input_uppercase[-1])
+                for i in range(start, end+1):
+                    output_num.append(i)
+            else:
+                output_num.append(ord(input_uppercase))
+        
+        output = []
+
+        for item in sorted(output_num):
+            if chr(item) not in output:
+                output.append(chr(item))
+        
+        return output
+    
