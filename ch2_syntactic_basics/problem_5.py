@@ -12,7 +12,7 @@ def mean(string_of_numbers):
         '''
     if string_of_numbers == "":
         return 0.0
-    else:
+    else: 
         inputs = list(map(float, string_of_numbers.split(" ")))
         result = sum(inputs)/len(inputs)
         return result

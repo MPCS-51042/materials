@@ -35,4 +35,3 @@ def expand_letter_ranges(string_of_letters):
                 output.append(chr(item))
         
         return output
-    

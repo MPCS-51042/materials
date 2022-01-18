@@ -13,4 +13,4 @@
     After going through all test case, the 'test' function will print out the number of passes out of the total test cases it ran. 
   
 **3. Does this function have a return value? How do you know?**
-    Yes, this function has a "None" return value because when we print out the function: print(test(function, examples)), we will get "None". 
+    Yes, this function has a "None" return value because when we print out the function: print(test(function, examples)), we will get "None".

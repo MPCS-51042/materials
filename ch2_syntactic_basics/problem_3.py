@@ -15,7 +15,7 @@ def find_twos(string_1, string_2):
         '''
     list1 = string_1.split(",")
     list2 = string_2.split(",")
-    
+
     result = []
     
     for a in list1:
@@ -25,5 +25,3 @@ def find_twos(string_1, string_2):
                 if (b.strip() == a3) and (int(a3) not in result):
                     result.append(int(a3))
     return result
-    
-   
