@@ -48,7 +48,6 @@ def find_minimum(sequence, comparator=None):
             return "Invalid Sequence"
     else:
         return "Invalid Sequence"
-    
 
 class TrainingAttempt():
     def __init__(self, id, weights, error):

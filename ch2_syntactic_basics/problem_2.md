@@ -4,5 +4,5 @@ b/ Avoid running random commands found on the internet, especially those command
 c/ Blow away the .git directory by typing <$rm -rf .git>
 
 **2. I think...**
-I think it can be difficult to undo a small piece of work that breaks the application. To avoid this difficulty, I should make small, incremental commits when things are working. If I break something, I can easily go back and check my last commit that is working and not so far behind my current working progress. 
+I think it can be difficult to undo a small piece of work that breaks the application. To avoid this difficulty, I should make small, incremental commits when things are working. If I break something, I can easily go back and check my last commit that is working and not so far behind my current working progress.
 

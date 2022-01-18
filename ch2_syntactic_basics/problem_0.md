@@ -10,7 +10,7 @@
     For each test case in the 'examples' argument, we will add 1 to the 'run' variable. This is to count how many test cases we run in total at the end. 
     Also, in each test case, we set 'expected' variable (expected result) equal to the last item in the test case. For the remainding items in each test case, we use them as inputs for 'function', generating 'actual' variable (actual result).
     If the expected result equals to actual result, we add 1 to the 'passed' variable. Otherwise, we print out a statement stating that "Whoops. For example {example}, the function returned {actual}." This means to show users the difference in actual and expected results, given the inputs. 
-    After going through all test case, the 'test' function will print out the number of passes out of the total test cases it ran. 
+    After going through all test case, the 'test' function will print out the number of passes out of the total test cases it ran.
   
 **3. Does this function have a return value? How do you know?**
     Yes, this function has a "None" return value because when we print out the function: print(test(function, examples)), we will get "None". 

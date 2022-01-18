@@ -9,7 +9,7 @@ To restore the local main branch to the remote main branch: $git checkout 6f2159
 
 To create a new branch: $git checkout -b restore-remote-main
 
-Make 4 changes on this new branch 
+Make 4 changes on this new branch
     After each change, add the change staged to commit: $git add . 
     and then to commit: $git commit -m "message"
 

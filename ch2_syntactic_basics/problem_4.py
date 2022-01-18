@@ -19,7 +19,8 @@ def expand_letter_ranges(string_of_letters):
 
         for input in inputs:
             input_uppercase = input.upper()
-
+            
+            # handle the range by converting letter to number and add to the list of output
             if "-" in input_uppercase:
                 start = ord(input_uppercase[0])
                 end = ord(input_uppercase[-1])
