@@ -1,3 +1,5 @@
+import string #(You'll find string.punctuation useful for this problem)
+
 def fill_completions(fd):
     pass
 
