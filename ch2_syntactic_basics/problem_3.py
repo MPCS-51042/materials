@@ -13,4 +13,21 @@ def find_twos(string_1, string_2):
         Output:
             A list of integers, where the list contents is described by above. The returned list must not contain duplicates.
         '''
-    pass
+    string1_list = [num.strip() for num in string_1.split(",")]
+    string2_list = [num.strip() for num in string_2.split(",")]
+    matches = []
+    for number in string1_list:
+        if "2" in number:
+            if number in string2_list:
+                if int(number) not in matches:
+                    matches.append(int(number))
+    return matches 
+
+
+
+
+
+
+
+# looked up from: https://stackoverflow.com/questions/7844118/how-to-convert-comma-delimited-string-to-list-in-python 
+# 
