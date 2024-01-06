@@ -4,3 +4,11 @@ def find_numbers():
 
         ABC = A*B*C*(A+B+C)
     '''
+    solutions = []
+
+    for A in range(1,10):
+        for B in range(1,10):
+            for C in range(1,10):
+                if A*B*C*(A+B+C) == (A*100+B*10+C):
+                    solutions.append(f"For {A}, {B}, and {C}, the equation solution is {(A*100+B*10+C)}")
+    return solutions 
