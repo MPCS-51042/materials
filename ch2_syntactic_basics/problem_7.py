@@ -13,14 +13,23 @@ def find_minimum(sequence, comparator=None):
     decreasing = False
     increasing = False 
 
+    if comparator is None:
+        comparator = lambda a,b: a < b #this is the default if not alternate function is passed in
+    elif comparator:
+        def multi_comparator(a,b):
+            if comparator(a) < comparator(b):
+                return True
+
+
+
     for i in range(1,len(sequence)-1):
-        if sequence[i] < sequence[i-1]:
+        if multi_comparator(sequence[i], sequence[i-1]):
             if increasing == True:
                 return error
             decreasing = True
-        elif sequence[i] == sequence[i-1]:
+        elif sequence[i] == sequence[i-1]: #doesn't need comparator
             return error 
-        elif sequence[i] > sequence[i-1] and sequence[i-1] < sequence[i-2]:
+        elif multi_comparator(sequence[i], sequence[i-1]) and multi_comparator(sequence[i],sequence[i+1]): #adjust index for second comparison since we are only checking if less than
             increasing = True
 
     if not (decreasing and increasing):  #doesnt make a v shape
