@@ -11,6 +11,10 @@ def expand_letter_ranges(string_of_letters):
             a list of the letters and expanded ranges in alphabetical order.
         '''
     #take the string, seperate into a list by commas.
+    if not string_of_letters:
+        return []
+    
+    
     string_list = [value for value in string_of_letters.split(",")]
     expanded_letters = set()
     
@@ -24,8 +28,8 @@ def expand_letter_ranges(string_of_letters):
                 start_value +=1
         else:
             expanded_letters.add(value.upper())
-    expanded_letters_list = sorted(list(expanded_letters_set))
-    return expanded_letters
+    expanded_letters_list = sorted(list(expanded_letters))
+    return expanded_letters_list
             
 
     # intiate new empty list numbered_list
