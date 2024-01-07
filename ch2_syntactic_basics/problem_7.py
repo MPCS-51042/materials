@@ -12,13 +12,12 @@ def find_minimum(sequence, comparator=None):
     error = "Invalid Sequence"
     decreasing = False
     increasing = False 
-
-    if comparator is None:
-        comparator = lambda a,b: a < b #this is the default if not alternate function is passed in
-    elif comparator:
-        def multi_comparator(a,b):
-            if comparator(a) < comparator(b):
-                return True
+    def multi_comparator(a, b):
+        if comparator:
+            return comparator(a) < comparator(b)
+        else:
+            return a < b
+        
 
 
 
@@ -29,7 +28,7 @@ def find_minimum(sequence, comparator=None):
             decreasing = True
         elif sequence[i] == sequence[i-1]: #doesn't need comparator
             return error 
-        elif multi_comparator(sequence[i], sequence[i-1]) and multi_comparator(sequence[i],sequence[i+1]): #adjust index for second comparison since we are only checking if less than
+        elif not multi_comparator(sequence[i], sequence[i-1]) and multi_comparator(sequence[i],sequence[i+1]): #adjust index for second comparison since we are only checking if less than
             increasing = True
 
     if not (decreasing and increasing):  #doesnt make a v shape
@@ -38,7 +37,7 @@ def find_minimum(sequence, comparator=None):
     #now that we have confirmed valid, find min
 
     for i in range(1, len(sequence) - 1):
-        if sequence[i] < sequence[i-1] and sequence[i] < sequence[i+1]:
+        if multi_comparator(sequence[i],sequence[i-1]) and multi_comparator(sequence[i],sequence[i+1]):
             return (sequence[i], i)
 
 
@@ -51,10 +50,10 @@ class TrainingAttempt():
     def __repr__(self):
         return f'TrainingAttempt {self.id}'
 
-def total_error(training_attempt):
+def total_error(attemptX):
     '''
     :param training_attempt: a TrainingAttempt
 
     :return: the error of a given TrainingAttempt
     '''
-    pass
+    return attemptX.error
