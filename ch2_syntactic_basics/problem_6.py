@@ -6,6 +6,7 @@ def find_numbers():
     '''
     solutions = []
 
+    #note kept cap letters to align with prompt, not pythonic i don't think
     for A in range(1,10):
         for B in range(1,10):
             for C in range(1,10):
